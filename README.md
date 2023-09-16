@@ -1,5 +1,7 @@
 # FileLogger-4.1
 This Is The Best File Logger Of 2023 Thats FREE! this is the 4.1 wersion and upgraded!
+# SUPPORT!
+
 # Functions
 - Surveillance modules
 - Fun modules
@@ -18,3 +20,18 @@ This Is The Best File Logger Of 2023 Thats FREE! this is the 4.1 wersion and upg
 - !admin_check - Checks if you are admin on target computer.
 - !bypass_uac - Attempts to bypass UAC to get admin privileges.
 - !shell - Run a shell command
+- # Surveillance
+- !screenshot - Sends a screenshot of the target machine
+- !idletime - Displays for how long the user has been AFK
+- !webcam_capture - Capture a picture of the webcam.
+- !tasklist - Returns a list of active tasks.
+- # File management
+- !chdir - Changes the current directory. !chdir < to go back one directory.
+- !chdisk - Changes the current disk. (E, C, D, etc.)
+- !ls - Displays all items in the current directory.
+- !download - Downloads a file from the specified path.
+- !upload - Uploads a file to the specified path.
+- !taskkill - Kills the specified task.
+- !startfile - Starts a file.
+- !delfile - Deletes a file.
+- !hidefile \ !unhidefile - Hides/unhides a file.
