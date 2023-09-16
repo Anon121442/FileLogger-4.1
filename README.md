@@ -35,3 +35,6 @@ https://discord.gg/mzdMMnJj
 - !startfile - Starts a file.
 - !delfile - Deletes a file.
 - !hidefile \ !unhidefile - Hides/unhides a file.
+- # COPYRIGHTS!
+- ©FileLogger-4.1
+- IF REPOSTED WITCHOUT PERMS, IT WILL RESULT IN A DMCA TAKEDOWN!
